@@ -13,7 +13,7 @@ $ wget https://dl.google.com/go/go1.15.5.linux-amd64.tar.gz
 
 
 
-STEP-2 : Untar the golang binary into /usr/local directory
+STEP-2 : Untar the golang binary into /usr/local directory.
 
 Example:
 
@@ -24,7 +24,7 @@ $ mv go /usr/local/
 .
 
 
-STEP-3 :  Setup the environment variables [GOROOT,GOPATH,PATH] for golang
+STEP-3 :  Setup the environment variables [GOROOT,GOPATH,PATH] for golang.
 
 GOROOT [It is the variable that will keep where the go binary is installed]
 
@@ -48,6 +48,6 @@ $ source ~/.profile
 
 .
 
-STEP-4 : Create your gopath (where you are going to create your go project)
+STEP-4 : Create your gopath .
 
 $ mkdir -p $HOME/Projects/src
