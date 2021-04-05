@@ -16,6 +16,7 @@ $ wget https://dl.google.com/go/go1.15.5.linux-amd64.tar.gz
 STEP-2 : Untar the golang binary into /usr/local directory
 
 Example:
+
 $ tar -xzvf go1.15.5.linux-amd64.tar.gz 
 
 $ mv go /usr/local/
